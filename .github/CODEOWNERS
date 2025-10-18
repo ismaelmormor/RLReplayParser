@@ -1,0 +1,11 @@
+# CODEOWNERS for ismaelmormor/RLReplayParser
+# Lines are processed top-to-bottom; more specific patterns should go first.
+
+# Owners for specific parts of the repo
+/src/ @ismaelmormor
+/tests/ @ismaelmormor
+/docs/ @ismaelmormor
+/.github/workflows/ @ismaelmormor
+
+# Fallback owner for everything else
+* @ismaelmormor
